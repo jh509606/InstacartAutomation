@@ -1,0 +1,22 @@
+Item,Quantity-Have
+Red Onions,0
+Friendly Farms 2% Ultra-Filtered Milk,0
+Bread,1
+Tilapia fresh,1
+Chicken breast tenderloins,0
+Ginger paste,1
+Garlic paste,1
+Cumin,1
+Salt,1
+Sugar,1
+Basmati rice, 4
+Cilantro,0
+ground turkey 93%,0
+Multi colored bell pepper,1
+spring water case,2
+unsalted butter,1
+roma tomatoes,2
+bananas,0
+nonfat greek yogurt plain,1
+5lb potato,1
+Eggs 12,1
